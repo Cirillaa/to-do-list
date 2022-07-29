@@ -24,8 +24,8 @@ function createTask () {
     task.innerHTML = input.value;
     removeButton.setAttribute('href', "#");
     editButton.setAttribute('href', '#');
-    removeImage.setAttribute('src', 'img/trash.svg');
-    editImage.setAttribute('src', 'img/editicon.svg');
+    removeImage.setAttribute('src', '/img/trash.svg');
+    editImage.setAttribute('src', '/img/editicon.svg');
     task.classList.add('task');
     taskAndButtons.classList.add('task-buttons');
     buttons.classList.add('buttons')
