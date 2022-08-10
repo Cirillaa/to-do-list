@@ -2,7 +2,17 @@
 Daily to-do list
 
 My first simple JS project. 
+## Display 
+![](/screens/first.png)
 
-Has simple functions to working with tasks, such as deleting, editing, checking the progress.
-Used responsive design and layout.
-Also used 3rd party library, that adds confetti, when you checked the checkbox.
+## Functions 
+
+* Add your task to list
+* You cand edite your task
+* Delete task
+* Mark a task that you already did
+
+>When you did your task you can see congratulations confetti
+
+## Display in use 
+![](/screens/second.png)
